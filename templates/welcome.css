@@ -1,0 +1,121 @@
+
+body {
+
+ background-repeat: no-repeat;
+  background-size: 300px 100px;
+  background-color: Azure;
+}
+h1 {
+    font-family: Comic Sans MS;
+}
+
+h2 {
+    font-family: Comic Sans MS;
+}
+
+h4 {
+    font-family: Comic Sans MS;
+}
+.tit{
+
+  border-style: solid;
+  border-color: green yellow blue red; /* red top, green right, blue bottom and yellow left */
+  width: 1000px;
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 4px;
+  background-color: black;
+  color:White
+}
+
+.titone{
+
+  border-style: solid;
+  border-color: green yellow blue red; /* red top, green right, blue bottom and yellow left */
+  width: 250px;
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 4px;
+  background-color: #e34234;
+  font-family: Comic Sans MS;
+
+}
+
+.tittwo{
+
+  border-style: solid;
+  border-color: green yellow blue red; /* red top, green right, blue bottom and yellow left */
+  width: 250px;
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 4px;
+  background-color: #9370db;
+  font-family: Comic Sans MS;
+
+}
+
+.titthree{
+
+  border-style: solid;
+  border-color: green yellow blue red; /* red top, green right, blue bottom and yellow left */
+  width: 250px;
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 4px;
+  background-color: #ffb8db;
+  font-family: Comic Sans MS;
+}
+
+.titfour{
+
+  border-style: solid;
+  border-color: green yellow blue red; /* red top, green right, blue bottom and yellow left */
+  width: 250px;
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 4px;
+  background-color: #5b92e5;
+  font-family: Comic Sans MS;
+
+
+}
+
+.titfive{
+
+  border-style: solid;
+  border-color: green yellow blue red; /* red top, green right, blue bottom and yellow left */
+  width: 250px;
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 4px;
+  background-color: #cf3476;
+  font-family: Comic Sans MS;
+
+
+}
+
+.titsix{
+
+  border-style: solid;
+  border-color: green yellow blue red; /* red top, green right, blue bottom and yellow left */
+  width: 1000px;
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 4px;
+  background-color: black;
+  color:white
+  font-family: Comic Sans MS;
+}
+
+h1 {
+  color:blue
+}
+
+p {
+  color:color:rgb(100, 50, 0)
+}
+
+li{
+ color:rgb(100, 50, 0)
+
+}
